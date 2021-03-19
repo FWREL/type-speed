@@ -71,16 +71,6 @@
     justify-content: center;
 }
 
-#judul {
-    color: white;
-}
-
-#subjudul {
-    color: white;
-}
-
-
-
 body {
     background-image: url('./cute-3047767_1920.jpg');
     background-position: center;
@@ -97,8 +87,4 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
-}
-
-h3 {
-    color: white;
 }
