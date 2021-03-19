@@ -71,9 +71,15 @@
     justify-content: center;
 }
 
-#judul, #subjudul {
+#judul {
     color: white;
 }
+
+#subjudul {
+    color: white;
+}
+
+
 
 body {
     background-image: url('./cute-3047767_1920.jpg');
