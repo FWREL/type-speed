@@ -71,6 +71,10 @@
     justify-content: center;
 }
 
+#kett {
+    color: white;
+}
+
 body {
     background-image: url('./cute-3047767_1920.jpg');
     background-position: center;
